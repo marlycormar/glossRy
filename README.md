@@ -312,6 +312,9 @@ of the data ([Tidy data](https://vita.had.co.nz/papers/tidy-data.pdf)).
 **Tidyverse**: a collection of R packages for operating on tabular data in
   consistent ways.
 
+**Tidymodels**: a collection of R packages for modeling and statistical
+analysis.
+
 **Truthy**: A truly Orwellian neologism meaning "not equivalent to false". See
   also *falsy*, but only if you are able to set aside your respect for the
   English language.
